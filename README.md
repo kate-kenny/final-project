@@ -15,6 +15,8 @@
 - Interested in bias both in algorithms and in the real world through environmental issues 
 - Could inform resource allocation, new building projects, choosing whether to invest in properties
 
+The initial motivation for our project was coming across a data set of EPA air pollution from 2000-2020 that has records of different types of pollutants on a national, state, and county level. From there, we wanted to work on something related to that data set and all three of us had an interest in working on a project that considered bias as a key component. So we landed on the idea of working with the EPA data set in addition to census data about the demographics of different areas to explore what factors are most highly corrolated with pollution. Additionaly, this project is an opportunity to explore algorithmic bias once we complete our modelling process. 
+
 ## Planned Deliverables
 
 - Combined Data Set
