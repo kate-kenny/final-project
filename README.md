@@ -50,7 +50,5 @@ Our project address the problems of disparities in pollution and air quality bas
 
 ## Tentative Timeline
 
-Our tentative timeline is to have:
-By the three week check-in: the data cleaned and in one dataset, exploratory phase of playing around with the data and features done, a few features selected (with potential to drop or add features as we go on), and the beginning of the modelling process to determine which models we should use. 
-By the six week check in: graphs, analysis, and code all in one Jupyter Notebook with a clear story being told (whether we find results we are expecting or not).
+Our tentative timeline is to have: by the three week check-in: the data cleaned and in one dataset, exploratory phase of playing around with the data and features done, a few features selected (with potential to drop or add features as we go on), and the beginning of the modelling process to determine which models we should use. By the six week check in: graphs, analysis, and code all in one Jupyter Notebook with a clear story being told (whether we find results we are expecting or not).
 
