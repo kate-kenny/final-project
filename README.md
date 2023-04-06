@@ -28,12 +28,11 @@ If things don't go directly as planned we will produce the following deliverable
 - A Jupyter notebook. However, our experiments and analysis may not be flushed out to a deep level. We might not have as many visualizations or research on environmental racism or factor contributions.
 
 ## Resources Required
-
-- Census Data 
+To complete our project will we need to utilize the following resources:
+- Census Data https://www.census.gov/data/tables/time-series/demo/popest/2020s-counties-detail.html
 - Income Data 
-- Possible meeting with Phil about using Python census package and some additional data help 
-- https://www.kaggle.com/datasets/sogun3/uspollution
-- https://pypi.org/project/CensusData/
+- Environmental Pollution Data https://www.kaggle.com/datasets/sogun3/uspollution
+- Possibly meeting with Phil. None of us have completed heavy data cleaning and we are likely to need advice about the built in census packages. https://pypi.org/project/CensusData/
 
 ## What We Will Learn
 
