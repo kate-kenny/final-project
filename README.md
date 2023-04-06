@@ -1,4 +1,4 @@
-# final-project
+# Predicting Air Pollution with Census Data
  Bridget, Mia, and Kate's Final Project! 
 
 ## Abstract
