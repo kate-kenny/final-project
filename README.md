@@ -14,7 +14,7 @@ Our project address the problems of disparities in pollution and air quality bas
 - Interested in bias both in algorithms and in the real world through environmental issues 
 - Could inform resource allocation, new building projects, choosing whether to invest in properties
 
-The initial motivation for our project was coming across a data set of EPA air pollution from 2000-2020 that has records of different types of pollutants on a national, state, and county level. From there, we wanted to work on something related to that data set and all three of us had an interest in working on a project that considered bias as a key component. So we landed on the idea of working with the EPA data set in addition to census data about the demographics of different areas to explore what factors are most highly corrolated with pollution. Additionaly, this project is an opportunity to explore algorithmic bias once we complete our modelling process. 
+The initial motivation for our project was coming across a data set of EPA air pollution from 2000-2020 that has records of different types of pollutants on a national, state, and county level. From there, we wanted to work on something related to that data set and all three of us had an interest in working on a project that considered bias as a key component. So we landed on the idea of working with the EPA data set in addition to census data about the demographics of different areas to explore what factors are most highly correlated with pollution. Additionally, this project is an opportunity to explore algorithmic bias once we complete our modelling process. 
 
 ## Planned Deliverables
 If everything works outs exactly as we planned we will produce the following deliverables
@@ -35,7 +35,8 @@ To complete our project will we need to utilize the following resources:
 - Possibly meeting with Phil. None of us have completed heavy data cleaning and we are likely to need advice about the built in census packages. https://pypi.org/project/CensusData/
 
 ## What We Will Learn
-Mia: What I will learn
+Mia: In my initial goal setting, I wrote that I wanted to focus on experimentation and implementation. I think that this project will allow me to pursue both interests. I am excited to add the social responsibility portion of the project. Investigating environmental racism and the bias of our algorithm will allow for a wholistic picture of its impacts. I also wrote that I want to have a open line of communication with my group. I enjoyed working with my group today and think that working with my group members will be a fun and positive experience in the future. I also wrote that I wanted to design a creative visual representation of our project and I think our final jupyter notebook will help me achieve this goal.
+
 
 Bridget: Our project aligns with my beginning-of-semester goals rather well. I stated that I wanted to study "a complex dataset in depth and how that affects algorithmic bias in a certain field," and our project includes putting together a complex dataset to determine whether disparities exists in urban air pollution. I am excited to learn how to clean data, and one of my goals was meeting with Phil if we get stuck and I think this is a good opportunity to practice that. I am happy to be working with my group and think meeting weekly will be possible and even enjoyable. 
 
@@ -50,8 +51,8 @@ Kate: In my initial reflective goal setting I wrote that I wanted to work on a p
 ## Ethics Statement
 
 The groups that stand to benefit from our project include people in highly polluted areas, as the outcome of this experiment could highlight the disparities between different groups of people and air quality and therefore spur lawmakers to allocate resources more liberally to those places. Government decision makers could also benefit from our project as it provides evidence to justify spending money in certain areas. 
-The groups that stand to be excluded or harmed also include the people in highly polluted areas. We thinkt hat if our project is used in a biased way, it could be used to justify not buying, investing, or building in certain areas. If an area is known to be polluted, that area will not be desirable as a place to live or raise children. This could drive money away from these areas and be very harmful for the people already living there; it could increase already-existing disparities. 
-However, we are hopeful that the world will become an overall better place because of our project. This comes allong with the assumption that policy-makers and government actors are well-intentioned, and that they will allocate money in an equitable way to systemically oppressed areas. We also assume that environmental spending is increasing in the government and that government actors can create effective environmental policy that passes through both the House and Senate. 
+The groups that stand to be excluded or harmed also include the people in highly polluted areas. We think that if our project is used in a biased way, it could be used to justify not buying, investing, or building in certain areas. If an area is known to be polluted, that area will not be desirable as a place to live or raise children. This could drive money away from these areas and be very harmful for the people already living there; it could increase already-existing disparities. 
+However, we are hopeful that the world will become an overall better place because of our project. This comes along with the assumption that policy-makers and government actors are well-intentioned, and that they will allocate money in an equitable way to systemically oppressed areas. We also assume that environmental spending is increasing in the government and that government actors can create effective environmental policy that passes through both the House and Senate. 
 
 
 ## Tentative Timeline
