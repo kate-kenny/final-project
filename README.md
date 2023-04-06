@@ -44,11 +44,10 @@ The initial motivation for our project was coming across a data set of EPA air p
 
 ## Ethics Statement
 
+The groups that stand to benefit from our project include people in highly polluted areas, as the outcome of this experiment could highlight the disparities between different groups of people and air quality and therefore spur lawmakers to allocate resources more liberally to those places. Government decision makers could also benefit from our project as it provides evidence to justify spending money in certain areas. 
+The groups that stand to be excluded or harmed also include the people in highly polluted areas. We thinkt hat if our project is used in a biased way, it could be used to justify not buying, investing, or building in certain areas. If an area is known to be polluted, that area will not be desirable as a place to live or raise children. This could drive money away from these areas and be very harmful for the people already living there; it could increase already-existing disparities. 
+However, we are hopeful that the world will become an overall better place because of our project. This comes allong with the assumption that policy-makers and government actors are well-intentioned, and that they will allocate money in an equitable way to systemically oppressed areas. We also assume that environmental spending is increasing in the government and that government actors can create effective environmental policy that passes through both the House and Senate. 
 
-
-- Benefit: People in highly poluted areas, government decision makers
-- Excluded/Harmed: Resident could be excluded if areas determined to be undesirable or bad because of pollution, reinforce existing disparities if it led to people not wanting to live, buy, or invest in those places 
-- Hopefully yes, could lead to better allocations of resources. Environmental spending is increasing so we could hopefully direct that money in an equitable way that takes into account systemic oppression. 
 
 ## Tentative Timeline
 
