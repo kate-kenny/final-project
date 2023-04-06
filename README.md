@@ -31,6 +31,8 @@ The initial motivation for our project was coming across a data set of EPA air p
 
 ## What We Will Learn
 
+Kate: In my initial reflective goal setting I wrote that I wanted to work on a project that interested me and ideally would be related to an environmental issue or algorithmic bias. I think that this project offers both and I am excited to move forward with it and hopefully achieve my process goals. I am excited to be working with my team so I think that achieving my goals of open communication and regular meetins will be very achievable, and even fun! I hope to learn more about some of the models we have implemented and specifically how to use our machine learning models on more complex data sets. 
+
 
 ## Risk Statement
 
