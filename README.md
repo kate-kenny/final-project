@@ -37,7 +37,7 @@ To complete our project will we need to utilize the following resources:
 ## What We Will Learn
 Mia: What I will learn
 
-
+Bridget: Our project aligns with my beginning-of-semester goals rather well. I stated that I wanted to study "a complex dataset in depth and how that affects algorithmic bias in a certain field," and our project includes putting together a complex dataset to determine whether disparities exists in urban air pollution. I am excited to learn how to clean data, and one of my goals was meeting with Phil if we get stuck and I think this is a good opportunity to practice that. I am happy to be working with my group and think meeting weekly will be possible and even enjoyable. 
 
 ## Risk Statement
 
