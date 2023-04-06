@@ -16,13 +16,15 @@
 - Could inform resource allocation, new building projects, choosing whether to invest in properties
 
 ## Planned Deliverables
+If everything works outs exactly as we planned we will produce the following deliverables
+- A combined data set: We currently have 3 different data sets - one with environmental data by county, one with racial demographic data by county and one with income data by county. We hope to clean these data sets and eventually merge the three of them into one large data set.
+- A Python package containing all code used for algorithms and analysis. We hope to create a predictive model that predicts whether a given location is a high pollution or low pollution area. 
+- A Jupyter Notebook with experimental graphics. We hope to do some experimentation to determine which factors have the heaviest contribution to the prediction.
 
-- Combined Data Set
-- Python package 
-- Jupyter Notebook with graphs/figures and a pretty large amount of writing 
-
-- Full success: Working prediction model, analysis of what factors are related to pollution rates, outside reasearch
-- Partial success: Same but less analysis/outside research about environmental racism/disparities, still python package and less developed Jupyter notebook
+If things don't go directly as planned we will produce the following deliverables:
+- A combined data set
+- A Python package containing our code and predictive model
+- A Jupyter notebook. However, our experiments and analysis may not be flushed out to a deep level. We might not have as many visualizations or research on environmental racism or factor contributions.
 
 ## Resources Required
 
