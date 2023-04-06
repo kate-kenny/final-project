@@ -1,5 +1,6 @@
-# final-project
- Bridget, Mia, and Kate's Final Project! 
+# Predicting Air Pollution Based on Census Data
+
+## Mia Tarantola, Bridget Ulian, and Kate Kenny  
 
 ## Abstract
 
@@ -8,13 +9,8 @@ Our project address the problems of disparities in pollution and air quality bas
 
 ## Motivation and Question
 
-- We have a scientific data set 
-- 3 data sets we are hoping to merge 
-- Census, EPA, income data
-- Interested in bias both in algorithms and in the real world through environmental issues 
-- Could inform resource allocation, new building projects, choosing whether to invest in properties
 
-The initial motivation for our project was coming across a data set of EPA air pollution from 2000-2020 that has records of different types of pollutants on a national, state, and county level. From there, we wanted to work on something related to that data set and all three of us had an interest in working on a project that considered bias as a key component. So we landed on the idea of working with the EPA data set in addition to census data about the demographics of different areas to explore what factors are most highly corrolated with pollution. Additionaly, this project is an opportunity to explore algorithmic bias once we complete our modelling process. 
+The initial motivation for our project was coming across a data set of EPA air pollution from 2000-2020 that has records of different types of pollutants on a national, state, and county level. From there, we wanted to work on something related to that data set and all three of us had an interest in working on a project that considered bias as a key component. So we landed on the idea of working with the EPA data set in addition to census data about the demographics of different areas to explore what factors are most highly corrolated with pollution. This project is an opportunity for us to learn more about environmental racism in addition to exploring algorithmic bias once we complete our modelling process. We think that this model could inform resource allocation from the government, new building projects that could cause pollution, and other future investments from both the private and public sectors.
 
 ## Planned Deliverables
 
@@ -35,12 +31,11 @@ The initial motivation for our project was coming across a data set of EPA air p
 
 ## What We Will Learn
 
-- 
+Kate: In my initial reflective goal setting I wrote that I wanted to work on a project that interested me and ideally would be related to an environmental issue or algorithmic bias. I think that this project offers both and I am excited to move forward with it and hopefully achieve my process goals. I am excited to be working with my team so I think that achieving my goals of open communication and regular meetins will be very achievable, and even fun! I hope to learn more about some of the models we have implemented and specifically how to use our machine learning models on more complex data sets. 
 
 ## Risk Statement
 
-- Data cleaning and joining taking too long 
-- Patterns expected not happening would make analysis much more difficult
+We think that the main risk our project faces is running into more difficulties than anticipated when cleaning our data and combining multiple data sets. That is something that we have less experience with and could potentially end up taking time away from our more interesting modelling decisions and analysis. A second possible risk is the patterns that we expect to arise surrounding air pollution not happening. This would make our predictions less useful and our analysis would be much more difficult. 
 
 ## Ethics Statement
 
